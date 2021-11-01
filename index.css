@@ -1,0 +1,23 @@
+#navbar-guitarshop{
+    display: flex;
+    flex-flow: row;
+    margin:0;
+    height: 80px;
+    padding:40px;
+ 
+    border:1px solid black;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+#nav-logo{
+    display: flex;
+    width: 20%;
+    justify-content: center;
+}
+
+#main{
+    display: flex;
+    
+}
